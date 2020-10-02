@@ -3,6 +3,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   "Slides for talks."
 author: "Nathan Jessen"
 theme: jekyll-theme-cayman
+base_url: slides/
 
 include:
   - "_pages"
