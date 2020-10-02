@@ -1,3 +1,3 @@
 # slides
 
-Slides from previous talks.
+Slides for previous talks.
