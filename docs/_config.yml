@@ -2,7 +2,7 @@ title: "Slides"
 description: >- # this means to ignore newlines until "baseurl:"
   "Slides for talks."
 author: "Nathan Jessen"
-theme: minima
+theme: jekyll-theme-cayman
 
 include:
   - "_pages"
